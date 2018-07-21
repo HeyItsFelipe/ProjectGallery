@@ -1,0 +1,86 @@
+{
+    "projects": [
+        {
+            "title": "SimplifAi",
+            "link": "https://vast-meadow-27075.herokuapp.com/",
+            "github": "https://github.com/HeyItsFelipe/simplifAi",
+            "image": "SimplifAi.png",
+            "description":
+                "Empower users to extract more meaning from their information and establish data-driven, realistic expectations for future data points.",
+            "technologies": ["React", "Node.js", "Google Sheets API", "TravisCI", "Chart.js", "CSS"]
+        },
+        {
+            "title": "PicWorthy",
+            "link": "https://blooming-bayou-39371.herokuapp.com/",
+            "github": "https://github.com/HeyItsFelipe/PicWorthy",
+            "image": "PicWorthy.png",
+            "description":
+                "Share your favorite spots and see what other people are checking out. Discover places you never knew existed, right around the corner.",
+            "technologies": ["React", "Node.js", "Mongoose", "MongoDB", "Bootstrap"]
+        },
+        {
+            "title": "FriendFinder",
+            "link": "https://protected-plateau-74346.herokuapp.com/",
+            "github": "https://github.com/HeyItsFelipe/FriendFinder",
+            "image": "FriendFinder.png",
+            "description":
+                "Remember the locations of your remote friends with this app. This app allows you to type in a friend name and the city they are located in. Upon submit, your friend will be saved onto the map.",
+            "technologies": ["React", "Node.js", "Mongoose", "MongoDB", "Google Maps API"]
+        },
+        {
+            "title": "SimonGame",
+            "link": "https://codepen.io/HeyItsFelipe/full/WjvxvG/",
+            "github": "https://codepen.io/HeyItsFelipe/full/WjvxvG/",
+            "image": "SimonGame_800x400.jpg",
+            "description":
+                "Play a childhood favorite: Simon! Begin by pressing start and see if you can beat the game!",
+            "technologies": ["Dojo", "Bootstrap", "JavaScript", "CSS", "HTML"]
+        },
+        {
+            "title": "RandomQuotes",
+            "link": "https://codepen.io/HeyItsFelipe/full/EWYaaB/",
+            "github": "https://codepen.io/HeyItsFelipe/full/EWYaaB/",
+            "image": "RandomQuotes_800x400.jpg",
+            "description":
+                "Generate random quotes by clicking the New Quote button. If one you like appears, click Tweet to post on your Twitter.",
+            "technologies": ["Twitter API", "jQuery", "Bootstrap", "JavaScript", "CSS", "HTML"]
+        },
+        {
+            "title": "PortfolioProject",
+            "link": "https://codepen.io/HeyItsFelipe/full/ygdZPg/",
+            "github": "https://codepen.io/HeyItsFelipe/full/ygdZPg/",
+            "image": "PortfolioProject_800x400.jpg",
+            "description":
+                "A template for creating a basic portfolio page. Inspect it and get some creative ideas on how to design your own portfolio page.",
+            "technologies": ["Bootstrap", "HTML", "CSS"]
+        },
+        {
+            "title": "NeighborhoodMap",
+            "link": "https://heyitsfelipe.github.io/Neighborhood_Map/",
+            "github": "https://github.com/HeyItsFelipe/Neighborhood_Map",
+            "image": "NeighborhoodMap_400x200.jpg",
+            "description":
+                "Here we have a list of cities. Filter them by typing in the box. Click on the marker for additional details about the city.",
+            "technologies": [
+                "Google Maps API",
+                "Wikipedia API",
+                "Knockout",
+                "AJAX",
+                "jQuery",
+                "JavaScript",
+                "Bootstrap",
+                "CSS",
+                "HTML"
+            ]
+        },
+        {
+            "title": "IPNDNotes",
+            "link": "https://first-project-1029.appspot.com/",
+            "github": "",
+            "image": "IPNDNotes_400x200.jpg",
+            "description":
+                "Here are some notes I took for Udacity's Introduction to Programming Nanodegree course. Read through and post something nice in the homepage.",
+            "technologies": ["Google App Engine", "Python", "JavaScript", "CSS", "HTML"]
+        }
+    ]
+}
