@@ -1,0 +1,9 @@
+.header {
+  display: block;
+  text-align: center;
+}
+
+.header__title {
+  display: inline-block;
+  margin-right: 5%;
+}
