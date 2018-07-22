@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 // import logo from './logo.svg';
 import Header from './Header.jsx';
 import './App.css';
-import preload from './projectData.json';
+import projectData from './projectData.json';
 
 class App extends Component {
   constructor(props) {
@@ -10,17 +10,16 @@ class App extends Component {
     this.state = {
       search: ''
     };
-    this.handleSearch = this.handleSearch.bind(this);
   }
 
-  handleSearch(event) {
+  handleSearch = event => {
     this.setState({
       search: event.target.value
     });
-  }
+  };
 
   render() {
-    let result = preload['projects'].filter((element, index, array) => {
+    let searchResult = projectData['projects'].filter(element => {
       let title = element['title'];
       let techString = element['technologies'].join(' ');
       return `${title} ${techString}`.toUpperCase().indexOf(this.state.search.toUpperCase()) > -1;
@@ -29,7 +28,7 @@ class App extends Component {
       <div>
         <Header handleSearch={this.handleSearch} />
         <pre>
-          <code>{JSON.stringify(result, null, 4)}</code>
+          <code>{JSON.stringify(searchResult, null, 4)}</code>
         </pre>
       </div>
     );

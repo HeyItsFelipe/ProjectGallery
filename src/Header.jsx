@@ -5,12 +5,11 @@ class Header extends Component {
   constructor(props) {
     super(props);
     this.state = {};
-    this.handleSearch = this.handleSearch.bind(this);
   }
 
-  handleSearch(event) {
+  handleSearch = event => {
     this.props.handleSearch(event);
-  }
+  };
 
   render() {
     return (
