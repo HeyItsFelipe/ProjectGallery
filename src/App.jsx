@@ -21,11 +21,13 @@ class App extends Component {
 
   render() {
     let result = preload['projects'].filter((element, index, array) => {
-      return element['title'].toUpperCase().indexOf(this.state.search.toUpperCase()) > -1;
+      let title = element['title'];
+      let techString = element['technologies'].join(' ');
+      return `${title} ${techString}`.toUpperCase().indexOf(this.state.search.toUpperCase()) > -1;
     });
     return (
       <div>
-        <Header />
+        <Header handleSearch={this.handleSearch} />
         <pre>
           <code>{JSON.stringify(result, null, 4)}</code>
         </pre>

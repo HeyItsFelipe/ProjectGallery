@@ -5,12 +5,18 @@ class Header extends Component {
   constructor(props) {
     super(props);
     this.state = {};
+    this.handleSearch = this.handleSearch.bind(this);
   }
+
+  handleSearch(event) {
+    this.props.handleSearch(event);
+  }
+
   render() {
     return (
       <div className="header">
         <h2 className="header__title">ProjectGallery</h2>
-        <input placeholder="Search Projects" />
+        <input placeholder="Search Projects" onChange={this.handleSearch} />
       </div>
     );
   }
