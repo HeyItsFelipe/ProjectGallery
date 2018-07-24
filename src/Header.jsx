@@ -15,7 +15,7 @@ class Header extends Component {
     return (
       <div className="header">
         <h2 className="header__title">ProjectGallery</h2>
-        <input placeholder="Search Projects" onChange={this.handleSearch} />
+        <input placeholder="Search by Title or Tech" onChange={this.handleSearch} />
       </div>
     );
   }

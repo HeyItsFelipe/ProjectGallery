@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import Card from './Card.jsx';
+import './Gallery.css';
 
 const Gallery = ({ projectData, searchString }) => {
   let searchResults = projectData['projects']
@@ -12,7 +13,11 @@ const Gallery = ({ projectData, searchString }) => {
       return <Card cardData={element} />;
     });
 
-  return <div>{searchResults}</div>;
+  return (
+    <div>
+      <div className="gallery">{searchResults}</div>
+    </div>
+  );
 };
 
 export default Gallery;

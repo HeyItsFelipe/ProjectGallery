@@ -24,7 +24,7 @@
             "github": "https://github.com/HeyItsFelipe/FriendFinder",
             "image": "FriendFinder.png",
             "description":
-                "Remember the locations of your remote friends with this app. This app allows you to type in a friend name and the city they are located in. Upon submit, your friend will be saved onto the map.",
+                "Remember the locations of your remote friends with this app. Type in a friend name and their city. Upon submit, your friend will be saved onto the map.",
             "technologies": ["React", "Node.js", "Mongoose", "MongoDB", "Google Maps API"]
         },
         {
