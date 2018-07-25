@@ -10,7 +10,7 @@ const Gallery = ({ projectData, searchString }) => {
       return `${title} ${techString}`.toUpperCase().indexOf(searchString.toUpperCase()) > -1;
     })
     .map(element => {
-      return <Card cardData={element} />;
+      return <Card key={element.id} cardData={element} />;
     });
 
   return (

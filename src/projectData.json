@@ -1,6 +1,7 @@
 {
     "projects": [
         {
+            "id": 0,
             "title": "SimplifAi",
             "link": "https://vast-meadow-27075.herokuapp.com/",
             "github": "https://github.com/HeyItsFelipe/simplifAi",
@@ -10,6 +11,7 @@
             "technologies": ["React", "Node.js", "Google Sheets API", "TravisCI", "Chart.js", "CSS"]
         },
         {
+            "id": 1,
             "title": "PicWorthy",
             "link": "https://blooming-bayou-39371.herokuapp.com/",
             "github": "https://github.com/HeyItsFelipe/PicWorthy",
@@ -19,6 +21,7 @@
             "technologies": ["React", "Node.js", "Mongoose", "MongoDB", "Bootstrap"]
         },
         {
+            "id": 2,
             "title": "FriendFinder",
             "link": "https://protected-plateau-74346.herokuapp.com/",
             "github": "https://github.com/HeyItsFelipe/FriendFinder",
@@ -28,6 +31,7 @@
             "technologies": ["React", "Node.js", "Mongoose", "MongoDB", "Google Maps API"]
         },
         {
+            "id": 3,
             "title": "SimonGame",
             "link": "https://codepen.io/HeyItsFelipe/full/WjvxvG/",
             "github": "https://codepen.io/HeyItsFelipe/full/WjvxvG/",
@@ -37,6 +41,7 @@
             "technologies": ["Dojo", "Bootstrap", "JavaScript", "CSS", "HTML"]
         },
         {
+            "id": 4,
             "title": "RandomQuotes",
             "link": "https://codepen.io/HeyItsFelipe/full/EWYaaB/",
             "github": "https://codepen.io/HeyItsFelipe/full/EWYaaB/",
@@ -46,6 +51,7 @@
             "technologies": ["Twitter API", "jQuery", "Bootstrap", "JavaScript", "CSS", "HTML"]
         },
         {
+            "id": 5,
             "title": "PortfolioProject",
             "link": "https://codepen.io/HeyItsFelipe/full/ygdZPg/",
             "github": "https://codepen.io/HeyItsFelipe/full/ygdZPg/",
@@ -55,6 +61,7 @@
             "technologies": ["Bootstrap", "HTML", "CSS"]
         },
         {
+            "id": 6,
             "title": "NeighborhoodMap",
             "link": "https://heyitsfelipe.github.io/Neighborhood_Map/",
             "github": "https://github.com/HeyItsFelipe/Neighborhood_Map",
@@ -74,6 +81,7 @@
             ]
         },
         {
+            "id": 7,
             "title": "IPNDNotes",
             "link": "https://first-project-1029.appspot.com/",
             "github": "",
