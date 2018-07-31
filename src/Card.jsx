@@ -1,10 +1,7 @@
-import React, { Component } from 'react';
+import React from 'react';
 import './Card.css';
 
 const Card = ({ cardData }) => {
-  // <pre>
-  // <code>{JSON.stringify(cardData, null, 4)}</code>
-  // </pre>
   return (
     <div className="card">
       <a href={cardData.link} target="__blank">
