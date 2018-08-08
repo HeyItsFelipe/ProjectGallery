@@ -42,6 +42,15 @@
         },
         {
             "id": 4,
+            "title": "WikipediaViewer",
+            "link": "https://codepen.io/HeyItsFelipe/full/aWbWeX/",
+            "github": "https://codepen.io/HeyItsFelipe/full/aWbWeX/",
+            "image": "WikipediaViewer.png",
+            "description": "A fun viewer to search Wikipedia articles. You can even open up a random article.",
+            "technologies": ["Wikipedia API", "jQuery", "Bootstrap", "JavaScript", "CSS", "HTML"]
+        },
+        {
+            "id": 5,
             "title": "RandomQuotes",
             "link": "https://codepen.io/HeyItsFelipe/full/EWYaaB/",
             "github": "https://codepen.io/HeyItsFelipe/full/EWYaaB/",
@@ -51,7 +60,7 @@
             "technologies": ["Twitter API", "jQuery", "Bootstrap", "JavaScript", "CSS", "HTML"]
         },
         {
-            "id": 5,
+            "id": 6,
             "title": "PortfolioProject",
             "link": "https://codepen.io/HeyItsFelipe/full/ygdZPg/",
             "github": "https://codepen.io/HeyItsFelipe/full/ygdZPg/",
@@ -61,7 +70,7 @@
             "technologies": ["Bootstrap", "HTML", "CSS"]
         },
         {
-            "id": 6,
+            "id": 7,
             "title": "NeighborhoodMap",
             "link": "https://heyitsfelipe.github.io/Neighborhood_Map/",
             "github": "https://github.com/HeyItsFelipe/Neighborhood_Map",
@@ -81,7 +90,7 @@
             ]
         },
         {
-            "id": 7,
+            "id": 8,
             "title": "IPNDNotes",
             "link": "https://first-project-1029.appspot.com/",
             "github": "",
