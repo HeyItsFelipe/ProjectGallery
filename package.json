@@ -2,9 +2,6 @@
   "name": "project-gallery",
   "version": "0.1.0",
   "private": true,
-  "engines": {
-    "yarn": "1.7.0"
-  },
   "dependencies": {
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
