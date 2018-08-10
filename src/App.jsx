@@ -4,26 +4,27 @@ import Header from './Header.jsx';
 import Gallery from './Gallery.jsx';
 import './App.css';
 import projectData from './projectData.json';
+//import { connect } from 'react-redux';
 
 class App extends Component {
-  constructor(props) {
-    super(props);
-    this.state = {
-      search: ''
-    };
-  }
+  // constructor(props) {
+  //   super(props);
+  //   this.state = {
+  //     search: ''
+  //   };
+  // }
 
-  handleSearch = event => {
-    this.setState({
-      search: event.target.value
-    });
-  };
+  // handleSearch = event => {
+  //   this.setState({
+  //     search: event.target.value
+  //   });
+  // };
 
   render() {
     return (
       <div>
-        <Header handleSearch={this.handleSearch} />
-        <Gallery projectData={projectData} searchString={this.state.search} />
+        <Header />
+        <Gallery projectData={projectData} />
       </div>
     );
   }
