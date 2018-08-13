@@ -1,12 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import App from './App';
-import Header from './Header';
+import Header, { Unwrapped as UnwrappedHeader } from './Header';
 import Gallery from './Gallery';
 import { shallow } from 'enzyme';
 
 describe('Header component', () => {
-  const wrapper = shallow(<Header />);
+  const wrapper = shallow(<UnwrappedHeader />);
   it('contains one element with header class', () => {
     expect(wrapper.find('.header').length).toBe(1);
   });

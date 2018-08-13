@@ -18,6 +18,7 @@ const Header = ({ handleSearch }) => {
   );
 };
 
+export const Unwrapped = Header;
 export default connect(
   null,
   mapDispatchToProps

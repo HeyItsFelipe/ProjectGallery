@@ -27,4 +27,5 @@ const Gallery = ({ projectData, search }) => {
   );
 };
 
+export const Unwrapped = Gallery;
 export default connect(mapStateToProps)(Gallery);
