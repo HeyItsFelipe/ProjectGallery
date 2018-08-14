@@ -11,27 +11,27 @@ describe('Card component', () => {
   const project = projectData['projects'][0];
   const wrapper = shallow(<Card key={project.id} cardData={project} />);
 
-  it('contains one link', () => {
+  it('should contain one link', () => {
     expect(wrapper.find('a').length).toBe(1);
   });
 
-  it('contains one image', () => {
+  it('should contain one image', () => {
     expect(wrapper.find('img').length).toBe(1);
   });
 
-  it('contains one project title', () => {
+  it('should contain one project title', () => {
     expect(wrapper.find('.card__title').length).toBe(1);
   });
 
-  it('contains one description', () => {
+  it('should contain one description', () => {
     expect(wrapper.find('.card__description').length).toBe(1);
   });
 
-  it('contains technologies title', () => {
+  it('should contain technologies title', () => {
     expect(wrapper.find('.card__tech-title').length).toBe(1);
   });
 
-  it('contains technologies', () => {
+  it('should contain technologies', () => {
     expect(wrapper.find('.card__techs').length).toBe(1);
   });
 });

@@ -9,7 +9,7 @@ import projectData from './projectData.json';
 
 describe('Gallery component', () => {
   const wrapper = shallow(<UnwrappedGallery projectData={projectData} search="" />);
-  it('contains number of Cards equal to number of projects', () => {
+  it('should contain number of cards equal to number of projects', () => {
     expect(wrapper.find(Card).length).toBe(projectData['projects'].length);
   });
 });

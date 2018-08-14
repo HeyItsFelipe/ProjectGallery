@@ -7,27 +7,27 @@ import { shallow } from 'enzyme';
 
 describe('Header component', () => {
   const wrapper = shallow(<UnwrappedHeader />);
-  it('contains one element with header class', () => {
+  it('should contain one element with header class', () => {
     expect(wrapper.find('.header').length).toBe(1);
   });
 
-  it('has two child elements', () => {
+  it('should have two child elements', () => {
     expect(wrapper.children().length).toBe(2);
   });
 
-  it('contains one element with header__title class', () => {
+  it('should contain one element with header__title class', () => {
     expect(wrapper.find('.header__title').length).toBe(1);
   });
 
-  it('header__title element has correct text', () => {
+  it('header__title element should have correct text', () => {
     expect(wrapper.find('.header__title').text()).toMatch('ProjectGallery');
   });
 
-  it('contains one text input element', () => {
+  it('should contain one text input element', () => {
     expect(wrapper.find('input').length).toBe(1);
   });
 
-  it('text input element has correct placeholder text', () => {
+  it('text input element should have correct placeholder text', () => {
     expect(wrapper.find('input').prop('placeholder')).toMatch('Search by Title or Tech');
   });
 });
