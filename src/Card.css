@@ -3,6 +3,11 @@
   width: 350px;
   padding: 4px;
   margin: 16px 4px 16px 4px;
+  transition: transform 0.2s;
+}
+
+.card:hover {
+  transform: scale(1.05);
 }
 
 img {

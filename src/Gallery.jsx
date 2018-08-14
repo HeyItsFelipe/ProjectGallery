@@ -18,7 +18,8 @@ const Gallery = ({ projectData, search }) => {
     })
     .map(element => {
       return <Card key={element.id} cardData={element} />;
-    });
+    })
+    .reverse();
 
   return (
     <div>
