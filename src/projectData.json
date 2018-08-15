@@ -5,7 +5,7 @@
             "title": "IPNDNotes",
             "link": "https://first-project-1029.appspot.com/",
             "github": "",
-            "image": "IPNDNotes_400x200.jpg",
+            "image": "IPNDNotes.jpg",
             "description":
                 "Here are some notes I took for Udacity's Introduction to Programming Nanodegree course. Read through and post something nice in the homepage.",
             "technologies": ["Google App Engine", "Python", "JavaScript", "CSS", "HTML"]
@@ -15,7 +15,7 @@
             "title": "NeighborhoodMap",
             "link": "https://heyitsfelipe.github.io/Neighborhood_Map/",
             "github": "https://github.com/HeyItsFelipe/Neighborhood_Map",
-            "image": "NeighborhoodMap_400x200.jpg",
+            "image": "NeighborhoodMap.jpg",
             "description":
                 "Here we have a list of cities. Filter them by typing in the box. Click on the marker for additional details about the city.",
             "technologies": [
@@ -35,7 +35,7 @@
             "title": "PortfolioProject",
             "link": "https://codepen.io/HeyItsFelipe/full/ygdZPg/",
             "github": "https://codepen.io/HeyItsFelipe/full/ygdZPg/",
-            "image": "PortfolioProject_800x400.jpg",
+            "image": "PortfolioProject.jpg",
             "description":
                 "A template for creating a basic portfolio page. Inspect it and get some creative ideas on how to design your own portfolio page.",
             "technologies": ["Bootstrap", "HTML", "CSS"]
@@ -55,7 +55,7 @@
             "title": "RandomQuotes",
             "link": "https://codepen.io/HeyItsFelipe/full/EWYaaB/",
             "github": "https://codepen.io/HeyItsFelipe/full/EWYaaB/",
-            "image": "RandomQuotes_800x400.jpg",
+            "image": "RandomQuotes.jpg",
             "description":
                 "Generate random quotes by clicking the New Quote button. If one you like appears, click Tweet to post on your Twitter.",
             "technologies": ["Twitter API", "jQuery", "Bootstrap", "JavaScript", "CSS", "HTML"]
@@ -74,7 +74,7 @@
             "title": "SimonGame",
             "link": "https://codepen.io/HeyItsFelipe/full/WjvxvG/",
             "github": "https://codepen.io/HeyItsFelipe/full/WjvxvG/",
-            "image": "SimonGame_800x400.jpg",
+            "image": "SimonGame.jpg",
             "description":
                 "Play a childhood favorite: Simon! Begin by pressing start and see if you can beat the game!",
             "technologies": ["Dojo", "Bootstrap", "JavaScript", "CSS", "HTML"]
