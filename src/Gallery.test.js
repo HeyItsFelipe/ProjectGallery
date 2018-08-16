@@ -1,7 +1,5 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from './App';
-import Header from './Header';
 import Gallery, { Unwrapped as UnwrappedGallery } from './Gallery';
 import Card from './Card';
 import { shallow } from 'enzyme';

@@ -42,16 +42,6 @@
         },
         {
             "id": 3,
-            "title": "SimplifAi",
-            "link": "https://vast-meadow-27075.herokuapp.com/",
-            "github": "https://github.com/HeyItsFelipe/simplifAi",
-            "image": "SimplifAi.png",
-            "description":
-                "Empower users to extract more meaning from their information and establish data-driven, realistic expectations for future data points.",
-            "technologies": ["React", "Node.js", "Google Sheets API", "TravisCI", "Chart.js", "CSS"]
-        },
-        {
-            "id": 4,
             "title": "RandomQuotes",
             "link": "https://codepen.io/HeyItsFelipe/full/EWYaaB/",
             "github": "https://codepen.io/HeyItsFelipe/full/EWYaaB/",
@@ -61,7 +51,7 @@
             "technologies": ["Twitter API", "jQuery", "Bootstrap", "JavaScript", "CSS", "HTML"]
         },
         {
-            "id": 5,
+            "id": 4,
             "title": "WikipediaViewer",
             "link": "https://codepen.io/HeyItsFelipe/full/aWbWeX/",
             "github": "https://codepen.io/HeyItsFelipe/full/aWbWeX/",
@@ -70,7 +60,7 @@
             "technologies": ["Wikipedia API", "jQuery", "Bootstrap", "JavaScript", "CSS", "HTML"]
         },
         {
-            "id": 6,
+            "id": 5,
             "title": "SimonGame",
             "link": "https://codepen.io/HeyItsFelipe/full/WjvxvG/",
             "github": "https://codepen.io/HeyItsFelipe/full/WjvxvG/",
@@ -80,7 +70,7 @@
             "technologies": ["Dojo", "Bootstrap", "JavaScript", "CSS", "HTML"]
         },
         {
-            "id": 7,
+            "id": 6,
             "title": "FriendFinder",
             "link": "https://protected-plateau-74346.herokuapp.com/",
             "github": "https://github.com/HeyItsFelipe/FriendFinder",
@@ -90,7 +80,7 @@
             "technologies": ["React", "Node.js", "Mongoose", "MongoDB", "Google Maps API"]
         },
         {
-            "id": 8,
+            "id": 7,
             "title": "PicWorthy",
             "link": "https://blooming-bayou-39371.herokuapp.com/",
             "github": "https://github.com/HeyItsFelipe/PicWorthy",
@@ -98,6 +88,16 @@
             "description":
                 "Share your favorite spots and see what other people are checking out. Discover places you never knew existed, right around the corner.",
             "technologies": ["React", "Node.js", "Mongoose", "MongoDB", "Bootstrap"]
+        },
+        {
+            "id": 8,
+            "title": "SimplifAi",
+            "link": "https://vast-meadow-27075.herokuapp.com/",
+            "github": "https://github.com/HeyItsFelipe/simplifAi",
+            "image": "SimplifAi.png",
+            "description":
+                "Empower users to extract more meaning from their information and establish data-driven, realistic expectations for future data points.",
+            "technologies": ["React", "Node.js", "Google Sheets API", "TravisCI", "Chart.js", "CSS"]
         },
         {
             "id": 9,

@@ -1,8 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from './App';
 import Header, { Unwrapped as UnwrappedHeader } from './Header';
-import Gallery from './Gallery';
 import { shallow } from 'enzyme';
 
 describe('Header component', () => {

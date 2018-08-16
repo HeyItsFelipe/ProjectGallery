@@ -1,8 +1,5 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from './App';
-import Header from './Header';
-import Gallery from './Gallery';
 import Card from './Card';
 import { shallow } from 'enzyme';
 import projectData from './projectData.json';
