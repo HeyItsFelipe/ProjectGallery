@@ -8,7 +8,7 @@ import projectData from './projectData.json';
 class App extends Component {
   render() {
     return (
-      <div>
+      <div className="app">
         <Header />
         <Gallery projectData={projectData} />
       </div>

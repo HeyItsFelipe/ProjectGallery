@@ -1,5 +1,6 @@
 .card {
-  border: 1px solid black;
+  border: 1px solid #ccc;
+  border-radius: 5px;
   width: 350px;
   padding: 4px;
   margin: 16px 4px 16px 4px;
@@ -26,6 +27,11 @@ img {
 .card__description {
   margin-top: 10px;
   margin-bottom: 10px;
+}
+
+.card__links a {
+  text-decoration: none;
+  color: #3c9cef;
 }
 
 .card__tech-title {
