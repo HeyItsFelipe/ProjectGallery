@@ -9,7 +9,7 @@ describe('Card component', () => {
   const wrapper = shallow(<Card key={project.id} cardData={project} />);
 
   it('should contain one link', () => {
-    expect(wrapper.find('a').length).toBe(1);
+    expect(wrapper.find('a').length).toBe(2);
   });
 
   it('should contain one image', () => {

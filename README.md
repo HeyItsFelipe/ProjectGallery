@@ -17,6 +17,7 @@ The latest deployment of ProjectGallery can be viewed at: [https://enigmatic-mea
 
 This app is build with ReactJS.</br>
 Redux is used to manage state.</br>
+Jest is used for testing.</br>
 Knowledge is the above mentioned technologies will be very helpful.
 
 ## Setup
@@ -27,3 +28,9 @@ Navigate to where you want to clone the repo.</br>
 Clone the repo to your computer using the `git clone` command.</br>
 Navigate into the cloned repo.</br>
 Type `npm install` to install dependencies.
+
+## Testing
+
+Tests are written using Jest.</br>
+To run tests, type `npm test` in terminal.</br>
+Follow directions given in terminal.
