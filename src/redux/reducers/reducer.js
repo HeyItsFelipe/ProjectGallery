@@ -5,11 +5,12 @@ const intialState = {
 };
 
 const rootReducer = (state = intialState, action) => {
-  const newState = { ...state };
-  if (action.type === SEARCH) {
-    newState.search = action.payload;
+  switch(action.type) {
+    case SEARCH:
+      return {...state, search: action.payload};
+    default:
+      return state;
   }
-  return newState;
 };
 
 export default rootReducer;
