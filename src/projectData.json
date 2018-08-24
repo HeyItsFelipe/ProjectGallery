@@ -77,7 +77,7 @@
             "image": "FriendFinder.png",
             "description":
                 "Remember the locations of your remote friends with this app. Type in a friend name and their city. Upon submit, your friend will be saved onto the map.",
-            "technologies": ["React", "Node.js", "Mongoose", "MongoDB", "Google Maps API"]
+            "technologies": ["React", "Node.js", "Express", "Mongoose", "MongoDB", "Google Maps API", "JavaScript"]
         },
         {
             "id": 7,
@@ -87,7 +87,7 @@
             "image": "PicWorthy.png",
             "description":
                 "Share your favorite spots and see what other people are checking out. Discover places you never knew existed, right around the corner.",
-            "technologies": ["React", "Node.js", "Mongoose", "MongoDB", "Bootstrap"]
+            "technologies": ["React", "Node.js", "Express", "Mongoose", "MongoDB", "JavaScript", "Bootstrap"]
         },
         {
             "id": 8,
@@ -97,7 +97,7 @@
             "image": "SimplifAi.png",
             "description":
                 "Empower users to extract more meaning from their information and establish data-driven, realistic expectations for future data points.",
-            "technologies": ["React", "Node.js", "Google Sheets API", "TravisCI", "Chart.js", "CSS"]
+            "technologies": ["React", "Node.js", "Express", "Google Sheets API", "TravisCI", "Chart.js", "JavaScript", "CSS"]
         },
         {
             "id": 9,
@@ -107,7 +107,7 @@
             "image": "ProjectGallery.png",
             "description":
                 "A page to view my projects. Search projects by title or technology used. Clicking on a project card will take you to its webpage.",
-            "technologies": ["React", "Redux", "Jest", "Enzyme", "CSS"]
+            "technologies": ["React", "Redux", "Jest", "Enzyme", "JavaScript", "CSS"]
         }
     ]
 }
