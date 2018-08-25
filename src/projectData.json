@@ -108,6 +108,16 @@
             "description":
                 "A page to view my projects. Search projects by title or technology used. Clicking on a project card will take you to its webpage.",
             "technologies": ["React", "Redux", "Jest", "Enzyme", "JavaScript", "CSS"]
+        },
+        {
+            "id": 10,
+            "title": "Obento",
+            "link": "",
+            "github": "",
+            "image": "placeholder.jpg",
+            "description":
+                "In Progress",
+            "technologies": ["React", "Redux", "GraphQL", "Node.js", "Express", "MongoDB", "Jest", "Heroku CI/CD", "JavaScript", "CSS"]
         }
     ]
 }

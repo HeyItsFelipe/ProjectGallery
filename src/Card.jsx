@@ -11,9 +11,13 @@ const Card = ({ cardData }) => {
         <h3 className="card__title">{cardData.title}</h3>
         <p className="card__description">{cardData.description}</p>
         <div className="card__links">
+        {cardData.link !== '' ? (
           <a href={cardData.link} target="__blank">
             Site
           </a>
+        ) : (
+          ''
+        )}
           <span>&nbsp;&nbsp;</span>
           {cardData.github !== '' ? (
             <a href={cardData.github} target="__blank">
