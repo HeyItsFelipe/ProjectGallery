@@ -5,7 +5,7 @@ const Card = ({ cardData }) => {
   return (
     <div className="card">
       <a href={cardData.link} target="__blank">
-        <img alt={`${cardData.title}`} src={`${process.env.PUBLIC_URL}/images/${cardData.image}`} />
+        <img alt={`${cardData.title}`} src={`${cardData.image}`} title={`${cardData.title}`} />
       </a>
       <div className="card__text">
         <h3 className="card__title">{cardData.title}</h3>

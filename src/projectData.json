@@ -5,7 +5,7 @@
             "title": "IPNDNotes",
             "link": "https://first-project-1029.appspot.com/",
             "github": "",
-            "image": "IPNDNotes.jpg",
+            "image": "https://i.imgur.com/GXFdCtx.jpg",
             "description":
                 "Here are some notes I took for Udacity's Introduction to Programming Nanodegree course. Read through and post something nice in the homepage.",
             "technologies": ["Google App Engine", "Python", "JavaScript", "CSS", "HTML"]
@@ -15,7 +15,7 @@
             "title": "NeighborhoodMap",
             "link": "https://heyitsfelipe.github.io/Neighborhood_Map/",
             "github": "https://github.com/HeyItsFelipe/Neighborhood_Map",
-            "image": "NeighborhoodMap.jpg",
+            "image": "https://i.imgur.com/fBSqJ30.jpg",
             "description":
                 "Here we have a list of cities. Filter them by typing in the box. Click on the marker for additional details about the city.",
             "technologies": [
@@ -35,7 +35,7 @@
             "title": "PortfolioProject",
             "link": "https://codepen.io/HeyItsFelipe/full/ygdZPg/",
             "github": "https://codepen.io/HeyItsFelipe/pen/ygdZPg",
-            "image": "PortfolioProject.jpg",
+            "image": "https://i.imgur.com/m2RuTiD.jpg",
             "description":
                 "A template for creating a basic portfolio page. Inspect it and get some creative ideas on how to design your own portfolio page.",
             "technologies": ["Bootstrap", "HTML", "CSS"]
@@ -45,7 +45,7 @@
             "title": "RandomQuotes",
             "link": "https://codepen.io/HeyItsFelipe/full/EWYaaB/",
             "github": "https://codepen.io/HeyItsFelipe/pen/EWYaaB",
-            "image": "RandomQuotes.jpg",
+            "image": "https://i.imgur.com/WzzZymW.jpg",
             "description":
                 "Generate random quotes by clicking the New Quote button. If one you like appears, click Tweet to post on your Twitter.",
             "technologies": ["Twitter API", "jQuery", "Bootstrap", "JavaScript", "CSS", "HTML"]
@@ -55,7 +55,7 @@
             "title": "WikipediaViewer",
             "link": "https://codepen.io/HeyItsFelipe/full/aWbWeX/",
             "github": "https://codepen.io/HeyItsFelipe/pen/aWbWeX",
-            "image": "WikipediaViewer.png",
+            "image": "https://i.imgur.com/Msdjzcp.png",
             "description": "A fun viewer to search Wikipedia articles. You can even open up a random article.",
             "technologies": ["Wikipedia API", "jQuery", "Bootstrap", "JavaScript", "CSS", "HTML"]
         },
@@ -64,7 +64,7 @@
             "title": "SimonGame",
             "link": "https://codepen.io/HeyItsFelipe/full/WjvxvG/",
             "github": "https://codepen.io/HeyItsFelipe/pen/WjvxvG/",
-            "image": "SimonGame.jpg",
+            "image": "https://i.imgur.com/6eh6xRp.jpg",
             "description":
                 "Play a childhood favorite: Simon! Begin by pressing start and see if you can beat the game!",
             "technologies": ["Dojo", "Bootstrap", "JavaScript", "CSS", "HTML"]
@@ -74,7 +74,7 @@
             "title": "FriendFinder",
             "link": "https://protected-plateau-74346.herokuapp.com/",
             "github": "https://github.com/HeyItsFelipe/FriendFinder",
-            "image": "FriendFinder.png",
+            "image": "https://i.imgur.com/wargcn4.png",
             "description":
                 "Remember the locations of your remote friends with this app. Type in a friend name and their city. Upon submit, your friend will be saved onto the map.",
             "technologies": ["React", "Node.js", "Express", "Mongoose", "MongoDB", "Google Maps API", "JavaScript"]
@@ -84,7 +84,7 @@
             "title": "PicWorthy",
             "link": "https://blooming-bayou-39371.herokuapp.com/",
             "github": "https://github.com/HeyItsFelipe/PicWorthy",
-            "image": "PicWorthy.png",
+            "image": "https://i.imgur.com/twTFhE4.png",
             "description":
                 "Share your favorite spots and see what other people are checking out. Discover places you never knew existed, right around the corner.",
             "technologies": ["React", "Node.js", "Express", "Mongoose", "MongoDB", "JavaScript", "Bootstrap"]
@@ -94,7 +94,7 @@
             "title": "SimplifAi",
             "link": "https://vast-meadow-27075.herokuapp.com/",
             "github": "https://github.com/HeyItsFelipe/simplifAi",
-            "image": "SimplifAi.png",
+            "image": "https://i.imgur.com/BDei4O8.png",
             "description":
                 "Empower users to extract more meaning from their information and establish data-driven, realistic expectations for future data points.",
             "technologies": ["React", "Node.js", "Express", "Google Sheets API", "TravisCI", "Chart.js", "JavaScript", "CSS"]
@@ -104,7 +104,7 @@
             "title": "ProjectGallery",
             "link": "https://enigmatic-meadow-17496.herokuapp.com/",
             "github": "https://github.com/HeyItsFelipe/ProjectGallery",
-            "image": "ProjectGallery.png",
+            "image": "https://i.imgur.com/xOfK19y.png",
             "description":
                 "A page to view my projects. Search projects by title or technology used. Clicking on a project card will take you to its webpage.",
             "technologies": ["React", "Redux", "Jest", "Enzyme", "JavaScript", "CSS"]
@@ -114,7 +114,7 @@
             "title": "Obento",
             "link": "",
             "github": "",
-            "image": "placeholder.jpg",
+            "image": "https://i.imgur.com/vMA6xsg.jpg",
             "description":
                 "In Progress",
             "technologies": ["React", "Redux", "GraphQL", "Node.js", "Express", "MongoDB", "Jest", "Heroku CI/CD", "JavaScript", "CSS"]
