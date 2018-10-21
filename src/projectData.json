@@ -6,9 +6,14 @@
             "link": "https://first-project-1029.appspot.com/",
             "github": "",
             "image": "https://i.imgur.com/GXFdCtx.jpg",
-            "description":
-                "Here are some notes I took for Udacity's Introduction to Programming Nanodegree course. Read through and post something nice in the homepage.",
-            "technologies": ["Google App Engine", "Python", "JavaScript", "CSS", "HTML"]
+            "description": "Here are some notes I took for Udacity's Introduction to Programming Nanodegree course. Read through and post something nice in the homepage.",
+            "technologies": [
+                "Google App Engine",
+                "Python",
+                "JavaScript",
+                "CSS",
+                "HTML"
+            ]
         },
         {
             "id": 1,
@@ -16,8 +21,7 @@
             "link": "https://heyitsfelipe.github.io/Neighborhood_Map/",
             "github": "https://github.com/HeyItsFelipe/Neighborhood_Map",
             "image": "https://i.imgur.com/fBSqJ30.jpg",
-            "description":
-                "Here we have a list of cities. Filter them by typing in the box. Click on the marker for additional details about the city.",
+            "description": "Here we have a list of cities. Filter them by typing in the box. Click on the marker for additional details about the city.",
             "technologies": [
                 "Google Maps API",
                 "Wikipedia API",
@@ -36,9 +40,12 @@
             "link": "https://codepen.io/HeyItsFelipe/full/ygdZPg/",
             "github": "https://codepen.io/HeyItsFelipe/pen/ygdZPg",
             "image": "https://i.imgur.com/m2RuTiD.jpg",
-            "description":
-                "A template for creating a basic portfolio page. Inspect it and get some creative ideas on how to design your own portfolio page.",
-            "technologies": ["Bootstrap", "HTML", "CSS"]
+            "description": "A template for creating a basic portfolio page. Inspect it and get some creative ideas on how to design your own portfolio page.",
+            "technologies": [
+                "Bootstrap",
+                "HTML",
+                "CSS"
+            ]
         },
         {
             "id": 3,
@@ -46,9 +53,15 @@
             "link": "https://codepen.io/HeyItsFelipe/full/EWYaaB/",
             "github": "https://codepen.io/HeyItsFelipe/pen/EWYaaB",
             "image": "https://i.imgur.com/WzzZymW.jpg",
-            "description":
-                "Generate random quotes by clicking the New Quote button. If one you like appears, click Tweet to post on your Twitter.",
-            "technologies": ["Twitter API", "jQuery", "Bootstrap", "JavaScript", "CSS", "HTML"]
+            "description": "Generate random quotes by clicking the New Quote button. If one you like appears, click Tweet to post on your Twitter.",
+            "technologies": [
+                "Twitter API",
+                "jQuery",
+                "Bootstrap",
+                "JavaScript",
+                "CSS",
+                "HTML"
+            ]
         },
         {
             "id": 4,
@@ -57,7 +70,14 @@
             "github": "https://codepen.io/HeyItsFelipe/pen/aWbWeX",
             "image": "https://i.imgur.com/Msdjzcp.png",
             "description": "A fun viewer to search Wikipedia articles. You can even open up a random article.",
-            "technologies": ["Wikipedia API", "jQuery", "Bootstrap", "JavaScript", "CSS", "HTML"]
+            "technologies": [
+                "Wikipedia API",
+                "jQuery",
+                "Bootstrap",
+                "JavaScript",
+                "CSS",
+                "HTML"
+            ]
         },
         {
             "id": 5,
@@ -65,9 +85,14 @@
             "link": "https://codepen.io/HeyItsFelipe/full/WjvxvG/",
             "github": "https://codepen.io/HeyItsFelipe/pen/WjvxvG/",
             "image": "https://i.imgur.com/6eh6xRp.jpg",
-            "description":
-                "Play a childhood favorite: Simon! Begin by pressing start and see if you can beat the game!",
-            "technologies": ["Dojo", "Bootstrap", "JavaScript", "CSS", "HTML"]
+            "description": "Play a childhood favorite: Simon! Begin by pressing start and see if you can beat the game!",
+            "technologies": [
+                "Dojo",
+                "Bootstrap",
+                "JavaScript",
+                "CSS",
+                "HTML"
+            ]
         },
         {
             "id": 6,
@@ -75,9 +100,16 @@
             "link": "https://protected-plateau-74346.herokuapp.com/",
             "github": "https://github.com/HeyItsFelipe/FriendFinder",
             "image": "https://i.imgur.com/wargcn4.png",
-            "description":
-                "Remember the locations of your remote friends with this app. Type in a friend name and their city. Upon submit, your friend will be saved onto the map.",
-            "technologies": ["React", "Node.js", "Express", "Mongoose", "MongoDB", "Google Maps API", "JavaScript"]
+            "description": "Remember the locations of your remote friends with this app. Type in a friend name and their city. Upon submit, your friend will be saved onto the map.",
+            "technologies": [
+                "React",
+                "Node.js",
+                "Express",
+                "Mongoose",
+                "MongoDB",
+                "Google Maps API",
+                "JavaScript"
+            ]
         },
         {
             "id": 7,
@@ -85,9 +117,16 @@
             "link": "https://blooming-bayou-39371.herokuapp.com/",
             "github": "https://github.com/HeyItsFelipe/PicWorthy",
             "image": "https://i.imgur.com/twTFhE4.png",
-            "description":
-                "Share your favorite spots and see what other people are checking out. Discover places you never knew existed, right around the corner.",
-            "technologies": ["React", "Node.js", "Express", "Mongoose", "MongoDB", "JavaScript", "Bootstrap"]
+            "description": "Share your favorite spots and see what other people are checking out. Discover places you never knew existed, right around the corner.",
+            "technologies": [
+                "React",
+                "Node.js",
+                "Express",
+                "Mongoose",
+                "MongoDB",
+                "JavaScript",
+                "Bootstrap"
+            ]
         },
         {
             "id": 8,
@@ -95,9 +134,17 @@
             "link": "https://vast-meadow-27075.herokuapp.com/",
             "github": "https://github.com/HeyItsFelipe/simplifAi",
             "image": "https://i.imgur.com/BDei4O8.png",
-            "description":
-                "Empower users to extract more meaning from their information and establish data-driven, realistic expectations for future data points.",
-            "technologies": ["React", "Node.js", "Express", "Google Sheets API", "TravisCI", "Chart.js", "JavaScript", "CSS"]
+            "description": "Empower users to extract more meaning from their information and establish data-driven, realistic expectations for future data points.",
+            "technologies": [
+                "React",
+                "Node.js",
+                "Express",
+                "Google Sheets API",
+                "TravisCI",
+                "Chart.js",
+                "JavaScript",
+                "CSS"
+            ]
         },
         {
             "id": 9,
@@ -105,19 +152,35 @@
             "link": "https://enigmatic-meadow-17496.herokuapp.com/",
             "github": "https://github.com/HeyItsFelipe/ProjectGallery",
             "image": "https://i.imgur.com/xOfK19y.png",
-            "description":
-                "A page to view my projects. Search projects by title or technology used. Clicking on a project card will take you to its webpage.",
-            "technologies": ["React", "Redux", "Jest", "Enzyme", "JavaScript", "CSS"]
+            "description": "A page to view my projects. Search projects by title or technology used. Clicking on a project card will take you to its webpage.",
+            "technologies": [
+                "React",
+                "Redux",
+                "Jest",
+                "Enzyme",
+                "JavaScript",
+                "CSS"
+            ]
         },
         {
             "id": 10,
-            "title": "Obento",
-            "link": "",
+            "title": "Obento (In Progess)",
+            "link": "https://obento-app.herokuapp.com/",
             "github": "",
             "image": "https://i.imgur.com/vMA6xsg.jpg",
-            "description":
-                "In Progress",
-            "technologies": ["React", "Redux", "GraphQL", "Node.js", "Express", "MongoDB", "Jest", "Heroku CI/CD", "JavaScript", "CSS"]
+            "description": "Plan your weekly meals, share your meal plans, and follow your friend's meal plans with this app.",
+            "technologies": [
+                "React",
+                "Redux",
+                "GraphQL",
+                "Node.js",
+                "Express",
+                "MongoDB",
+                "Jest",
+                "Heroku CI/CD",
+                "JavaScript",
+                "CSS"
+            ]
         }
     ]
 }
