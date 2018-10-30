@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 // import logo from './logo.svg';
 import Header from './Header.jsx';
 import Gallery from './Gallery.jsx';
+import Scroll from './Scroll.jsx';
 import './App.css';
 import projectData from './projectData.json';
 
@@ -10,7 +11,9 @@ class App extends Component {
     return (
       <div className="app">
         <Header />
-        <Gallery projectData={projectData} />
+        <Scroll>
+          <Gallery projectData={projectData} />
+        </Scroll>
       </div>
     );
   }
