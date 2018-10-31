@@ -13,7 +13,10 @@ const Header = ({ handleSearch }) => {
   return (
     <div className="header">
       <h2 className="header__title">ProjectGallery</h2>
-      <input placeholder="Search by Title or Tech" onChange={handleSearch} />
+      <input
+        aria-label="Search Projects"
+        placeholder="Search by Title or Tech"
+        onChange={handleSearch} />
     </div>
   );
 };
